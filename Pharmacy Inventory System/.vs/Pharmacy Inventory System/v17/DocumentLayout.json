@@ -1,0 +1,754 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\bll\\services\\productadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\productadd\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productadd\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\productsale\\sellrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productsale\\sellrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\productsale\\sellproductsearchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productsale\\sellproductsearchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\productsale\\savepricerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productsale\\savepricerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\productsale\\gettotalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productsale\\gettotalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\productadd\\productsearchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\productadd\\productsearchrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\pharmacy inventory system\\controllers\\productdelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\productdelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\services\\productdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\pharmacy inventory system\\controllers\\productgetapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\productgetapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\pharmacy inventory system\\controllers\\productupdateapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\productupdateapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\pharmacy inventory system\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\pharmacy inventory system\\controllers\\productaddapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\productaddapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\pharmacy inventory system\\controllers\\saleupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\saleupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\interface\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\interface\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\interface\\isellitemsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\isellitemsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\pharmacy inventory system\\controllers\\salegetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\salegetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\pharmacy inventory system\\controllers\\saleaddcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CB38B7F-3C86-41BC-8DFA-32CEA78F1C40}|Pharmacy Inventory System\\Pharmacy Inventory System.csproj|solutionrelative:pharmacy inventory system\\controllers\\saleaddcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\services\\saleget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\saleget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\services\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\salestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\services\\saleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\saleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\bll\\services\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\bll\\services\\productget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\productget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\services\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\repos\\user\\loginrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\user\\loginrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\interface\\iitemsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\iitemsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\interface\\isell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\interface\\isell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\bll\\dto\\showsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\showsaledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\bll\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\dto\\saledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\ef\\totalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\totalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\ef\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|c:\\users\\najib\\desktop\\pharmacy inventory system\\dal\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BLL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF6596C-FD53-4B32-8298-86473A228AC1}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB484FE-505F-470C-A842-2037D33F55B9}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\Sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\SearchRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DAL\\Repos\\SearchRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 184,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductAdd\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductAdd\\ProductRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductAdd\\ProductRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductAdd\\ProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:50:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellProductSearchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\SellProductSearchRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductSale\\SellProductSearchRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\SellProductSearchRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductSale\\SellProductSearchRepo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:07:03.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SellRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\SellRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductSale\\SellRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\SellRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductSale\\SellRepo.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwFIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:53:08.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAdd.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductAdd.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductAdd.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductAdd.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductAdd.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:52:03.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SavePriceRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\SavePriceRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductSale\\SavePriceRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\SavePriceRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductSale\\SavePriceRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:07:02.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetTotalPrice.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\GetTotalPrice.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductSale\\GetTotalPrice.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductSale\\GetTotalPrice.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductSale\\GetTotalPrice.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:38:01.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductSearchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductAdd\\ProductSearchRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\ProductAdd\\ProductSearchRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\ProductAdd\\ProductSearchRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\ProductAdd\\ProductSearchRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:07:01.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TotalPrice.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\TotalPrice.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\TotalPrice.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\TotalPrice.cs",
+              "RelativeToolTip": "DAL\\EF\\TotalPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:07:48.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleAddController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\SaleAddController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\SaleAddController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\SaleAddController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\SaleAddController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:17:11.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaleUpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\SaleUpdateController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\SaleUpdateController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\SaleUpdateController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\SaleUpdateController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:18:00.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SaleGetController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\SaleGetController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\SaleGetController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\SaleGetController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\SaleGetController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:18:33.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:07:33.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:46:13.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\ILogin.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\ILogin.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\ILogin.cs",
+              "RelativeToolTip": "DAL\\Interface\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:52:23.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\user\\LoginRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\user\\LoginRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\user\\LoginRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\user\\LoginRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:53:00.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\Model1.Context.cs",
+              "RelativeToolTip": "DAL\\EF\\Model1.Context.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T22:55:47.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\UserLogin.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\UserLogin.cs",
+              "RelativeToolTip": "BLL\\Services\\UserLogin.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:00:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\UserLoginController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\UserLoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:13:05.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDelController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductDelController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\ProductDelController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductDelController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\ProductDelController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:31:08.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDelete.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductDelete.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductDelete.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductDelete.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductDelete.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T23:33:45.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShowSaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\DTO\\ShowSaleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\ShowSaleDTO.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\DTO\\ShowSaleDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\ShowSaleDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T21:07:18.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\Sale.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Sale.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\Sale.cs",
+              "RelativeToolTip": "DAL\\EF\\Sale.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawBcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:13:35.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISellItemSearch.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\ISellItemSearch.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\ISellItemSearch.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\ISellItemSearch.cs",
+              "RelativeToolTip": "DAL\\Interface\\ISellItemSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:55:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Isell.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\Isell.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\Isell.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\Isell.cs",
+              "RelativeToolTip": "DAL\\Interface\\Isell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:50:34.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Iprice.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\Iprice.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\Iprice.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\Iprice.cs",
+              "RelativeToolTip": "DAL\\Interface\\Iprice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:50:20.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleStatus.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\SaleStatus.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SaleStatus.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\SaleStatus.cs",
+              "RelativeToolTip": "BLL\\Services\\SaleStatus.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:30:43.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SaleGet.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\SaleGet.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SaleGet.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\SaleGet.cs",
+              "RelativeToolTip": "BLL\\Services\\SaleGet.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:31:07.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SaleAdd.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\SaleAdd.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SaleAdd.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\SaleAdd.cs",
+              "RelativeToolTip": "BLL\\Services\\SaleAdd.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowCAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:53:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interface\\IRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:17:25.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SearchRepo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\SearchRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\SearchRepo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\SearchRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\SearchRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:14:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IItemSearch.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\IItemSearch.cs",
+              "RelativeDocumentMoniker": "DAL\\Interface\\IItemSearch.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Interface\\IItemSearch.cs",
+              "RelativeToolTip": "DAL\\Interface\\IItemSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:09:02.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Repo.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "DAL\\Repos\\Repo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:50:34.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SaleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\DTO\\SaleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTO\\SaleDTO.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\DTO\\SaleDTO.cs",
+              "RelativeToolTip": "BLL\\DTO\\SaleDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAhwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:40:23.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-24T15:21:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductGet.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductGet.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductGet.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductGet.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductGet.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADwv1QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:05:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductGetApiController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductGetApiController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\ProductGetApiController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductGetApiController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\ProductGetApiController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T15:04:48.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductAddApiController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductAddApiController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\ProductAddApiController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductAddApiController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\ProductAddApiController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:52:46.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductUpdateApiController.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductUpdateApiController.cs",
+              "RelativeDocumentMoniker": "Pharmacy Inventory System\\Controllers\\ProductUpdateApiController.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\Pharmacy Inventory System\\Controllers\\ProductUpdateApiController.cs",
+              "RelativeToolTip": "Pharmacy Inventory System\\Controllers\\ProductUpdateApiController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:24:23.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductUpdate.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ProductUpdate.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Services\\ProductUpdate.cs",
+              "RelativeToolTip": "BLL\\Services\\ProductUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:19:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\Sale.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\Sale.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Repos\\Sale.cs",
+              "RelativeToolTip": "DAL\\Repos\\Sale.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T11:06:24.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "DAL\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DAL\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-06-24T10:28:15.477Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:38:32.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\najib\\Desktop\\Pharmacy Inventory System\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:37:54.477Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
